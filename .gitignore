@@ -37,8 +37,8 @@ hw01-gradle/build
 # Ignore Gradle build output directory
 build
 out
-.idea/
-.gradle/
+.idea
+.gradle
 
 #Idea
 *.iml
